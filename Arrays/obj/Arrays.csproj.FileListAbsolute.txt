@@ -1,0 +1,2 @@
+C:\Documents and Settings\usuario\Meus documentos\GameMaker\Programação2\Arrays\obj\Release\Arrays.exe
+C:\Documents and Settings\usuario\Meus documentos\GameMaker\Programação2\Arrays\obj\Release\Arrays.pdb

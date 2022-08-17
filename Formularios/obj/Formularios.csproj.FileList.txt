@@ -1,0 +1,10 @@
+obj\Release\Formularios.exe
+obj\Release\Formularios.pdb
+bin\Release\Formularios.exe
+bin\Release\Formularios.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Formularios.Form1.resources
+obj\Release\Formularios.frmVerde.resources
+obj\Release\Formularios.frmVermelho.resources
+obj\Release\Formularios.Properties.Resources.resources
+obj\Release\Formularios.csproj.GenerateResource.Cache

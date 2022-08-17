@@ -1,0 +1,2 @@
+E:\Programação\Do\obj\Release\Do.exe
+E:\Programação\Do\obj\Release\Do.pdb

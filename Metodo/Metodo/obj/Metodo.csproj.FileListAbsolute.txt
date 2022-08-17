@@ -1,0 +1,10 @@
+C:\Documents and Settings\usuario\Meus documentos\Visual Studio 2005\Projects\Metodo\Metodo\obj\Release\Metodo.exe
+C:\Documents and Settings\usuario\Meus documentos\Visual Studio 2005\Projects\Metodo\Metodo\obj\Release\Metodo.pdb
+C:\Documents and Settings\usuario\Meus documentos\Visual Studio 2005\Projects\Metodo\Metodo\bin\Release\Metodo.exe
+C:\Documents and Settings\usuario\Meus documentos\Visual Studio 2005\Projects\Metodo\Metodo\bin\Release\Metodo.pdb
+C:\Documents and Settings\usuario\Meus documentos\Visual Studio 2005\Projects\Metodo\Metodo\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\usuario\Meus documentos\Visual Studio 2005\Projects\Metodo\Metodo\bin\Debug\Metodo.exe
+C:\Documents and Settings\usuario\Meus documentos\Visual Studio 2005\Projects\Metodo\Metodo\bin\Debug\Metodo.pdb
+C:\Documents and Settings\usuario\Meus documentos\Visual Studio 2005\Projects\Metodo\Metodo\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\usuario\Meus documentos\Visual Studio 2005\Projects\Metodo\Metodo\obj\Debug\Metodo.exe
+C:\Documents and Settings\usuario\Meus documentos\Visual Studio 2005\Projects\Metodo\Metodo\obj\Debug\Metodo.pdb

@@ -1,0 +1,2 @@
+obj\Debug\ClassicoHelloWorld.exe
+obj\Debug\ClassicoHelloWorld.pdb

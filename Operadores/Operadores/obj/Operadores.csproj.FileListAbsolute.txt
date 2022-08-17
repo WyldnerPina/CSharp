@@ -1,0 +1,8 @@
+C:\Documents and Settings\usuario\Meus documentos\Visual Studio 2005\Projects\Operadores\Operadores\obj\Release\Operadores.exe
+C:\Documents and Settings\usuario\Meus documentos\Visual Studio 2005\Projects\Operadores\Operadores\obj\Release\Operadores.pdb
+C:\Documents and Settings\usuario\Meus documentos\Visual Studio 2005\Projects\Operadores\Operadores\bin\Release\Operadores.exe
+C:\Documents and Settings\usuario\Meus documentos\Visual Studio 2005\Projects\Operadores\Operadores\bin\Release\Operadores.pdb
+C:\Documents and Settings\usuario\Meus documentos\Visual Studio 2005\Projects\Operadores\Operadores\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\usuario\Meus documentos\Visual Studio 2005\Projects\Operadores\Operadores\obj\Release\Operadores.Form1.resources
+C:\Documents and Settings\usuario\Meus documentos\Visual Studio 2005\Projects\Operadores\Operadores\obj\Release\Operadores.Properties.Resources.resources
+C:\Documents and Settings\usuario\Meus documentos\Visual Studio 2005\Projects\Operadores\Operadores\obj\Release\Operadores.csproj.GenerateResource.Cache

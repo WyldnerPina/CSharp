@@ -1,0 +1,20 @@
+C:\Documents and Settings\usuario\Meus documentos\Visual Studio 2005\Projects\Formularios\obj\Release\Formularios.exe
+C:\Documents and Settings\usuario\Meus documentos\Visual Studio 2005\Projects\Formularios\obj\Release\Formularios.pdb
+C:\Documents and Settings\usuario\Meus documentos\Visual Studio 2005\Projects\Formularios\bin\Release\Formularios.exe
+C:\Documents and Settings\usuario\Meus documentos\Visual Studio 2005\Projects\Formularios\bin\Release\Formularios.pdb
+C:\Documents and Settings\usuario\Meus documentos\Visual Studio 2005\Projects\Formularios\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\usuario\Meus documentos\Visual Studio 2005\Projects\Formularios\obj\Release\Formularios.Form1.resources
+C:\Documents and Settings\usuario\Meus documentos\Visual Studio 2005\Projects\Formularios\obj\Release\Formularios.frmVerde.resources
+C:\Documents and Settings\usuario\Meus documentos\Visual Studio 2005\Projects\Formularios\obj\Release\Formularios.frmVermelho.resources
+C:\Documents and Settings\usuario\Meus documentos\Visual Studio 2005\Projects\Formularios\obj\Release\Formularios.Properties.Resources.resources
+C:\Documents and Settings\usuario\Meus documentos\Visual Studio 2005\Projects\Formularios\obj\Release\Formularios.csproj.GenerateResource.Cache
+C:\Documents and Settings\usuario\Meus documentos\GameMaker\C#_wyl\Formularios\obj\Release\Formularios.exe
+C:\Documents and Settings\usuario\Meus documentos\GameMaker\C#_wyl\Formularios\obj\Release\Formularios.pdb
+C:\Documents and Settings\usuario\Meus documentos\GameMaker\C#_wyl\Formularios\bin\Release\Formularios.exe
+C:\Documents and Settings\usuario\Meus documentos\GameMaker\C#_wyl\Formularios\bin\Release\Formularios.pdb
+C:\Documents and Settings\usuario\Meus documentos\GameMaker\C#_wyl\Formularios\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\usuario\Meus documentos\GameMaker\C#_wyl\Formularios\obj\Release\Formularios.Form1.resources
+C:\Documents and Settings\usuario\Meus documentos\GameMaker\C#_wyl\Formularios\obj\Release\Formularios.frmVerde.resources
+C:\Documents and Settings\usuario\Meus documentos\GameMaker\C#_wyl\Formularios\obj\Release\Formularios.frmVermelho.resources
+C:\Documents and Settings\usuario\Meus documentos\GameMaker\C#_wyl\Formularios\obj\Release\Formularios.Properties.Resources.resources
+C:\Documents and Settings\usuario\Meus documentos\GameMaker\C#_wyl\Formularios\obj\Release\Formularios.csproj.GenerateResource.Cache
